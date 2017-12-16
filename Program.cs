@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Data;
-using System.Data.SqlClient;
+using System.Data.SqlClient;  
 
-namespace Exemplo
+namespace SqlDataAdapterExample
 {
     class Program
     {
